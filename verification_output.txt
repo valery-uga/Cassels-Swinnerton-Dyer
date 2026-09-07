@@ -1,0 +1,8 @@
+Exact verification over F_101: PASS
+det A = 20; det B = 29
+Plane coefficient matrix: 60 x 21, rank 21
+Selected zero-based rows: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 36]
+Selected 21 x 21 determinant: 74
+Five line points: rank N = 2; Jacobian rank = 3 (each)
+Ten pairs of exceptional lines: concatenated rank = 4 (each)
+The certificate proves a nonempty genericity open, not the surface input.
